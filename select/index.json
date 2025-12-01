@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "Get along",
+  "base_artist": "林原めぐみ、奥井雅美",
+  "createdAt": "2025-12-01T16:02:40.551350Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Get Along",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/01_Get_Along_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Me and Zoloft Get Along Just Fine",
+      "artist": "Dance Gavin Dance",
+      "has_synced": false,
+      "path": "select/02_Me_and_Zoloft_Get_Along_Just_Fine_Dance_Gavin_Dance.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Me and Zoloft Get Along Just Fine (Tree City Sessions)",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/03_Me_and_Zoloft_Get_Along_Just_Fine_(Tree_City_Sessions)_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Get Along With You",
+      "artist": "Kelis",
+      "has_synced": true,
+      "path": "select/04_Get_Along_With_You_Kelis.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Get along with You (Bump & Flex Radio Edit)",
+      "artist": "Kelis",
+      "has_synced": true,
+      "path": "select/05_Get_along_with_You_(Bump_&_Flex_Radio_Edit)_Kelis.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Get along with You (Mix Show Version)",
+      "artist": "Kelis",
+      "has_synced": true,
+      "path": "select/06_Get_along_with_You_(Mix_Show_Version)_Kelis.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Get along with You (Morales Club MIx)",
+      "artist": "Kelis",
+      "has_synced": true,
+      "path": "select/07_Get_along_with_You_(Morales_Club_MIx)_Kelis.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Get along with You (Pharrell Edit)",
+      "artist": "Kelis",
+      "has_synced": true,
+      "path": "select/08_Get_along_with_You_(Pharrell_Edit)_Kelis.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Get along with You (Soul Inside Radio Mix)",
+      "artist": "Kelis",
+      "has_synced": true,
+      "path": "select/09_Get_along_with_You_(Soul_Inside_Radio_Mix)_Kelis.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Get Along",
+      "artist": "The Libertines",
+      "has_synced": true,
+      "path": "select/10_I_Get_Along_The_Libertines.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Get Along (feat. Pace Won)",
+      "artist": "Morcheeba",
+      "has_synced": true,
+      "path": "select/11_Get_Along_(feat._Pace_Won)_Morcheeba.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Get Along - Bonus Track",
+      "artist": "Electric Youth",
+      "has_synced": false,
+      "path": "select/12_Get_Along_-_Bonus_Track_Electric_Youth.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Get Along",
+      "artist": "The Libertines",
+      "has_synced": true,
+      "path": "select/13_I_Get_Along_The_Libertines.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Get Along Without You Very Well",
+      "artist": "Frank Sinatra",
+      "has_synced": true,
+      "path": "select/14_I_Get_Along_Without_You_Very_Well_Frank_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Get Along Better",
+      "artist": "Drake feat. Ty Dolla $ign",
+      "has_synced": true,
+      "path": "select/15_Get_Along_Better_Drake_feat._Ty_Dolla_$ign.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Get Along Better (feat. Ty Dolla $ign)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/16_Get_Along_Better_(feat._Ty_Dolla_$ign)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Let's Get Along",
+      "artist": "Wang Chung",
+      "has_synced": false,
+      "path": "select/17_Let's_Get_Along_Wang_Chung.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Get Along",
+      "artist": "0 SOUL 7",
+      "has_synced": false,
+      "path": "select/pl_01_Get_Along_0_SOUL_7.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Get Along Together",
+      "artist": "0 SOUL 7",
+      "has_synced": false,
+      "path": "select/pl_02_Get_Along_Together_0_SOUL_7.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Get Along Together -愛を贈りたいから- (Re-Mix)",
+      "artist": "0 SOUL 7",
+      "has_synced": false,
+      "path": "select/pl_03_Get_Along_Together_-愛を贈りたいから-_(Re-Mix)_0_SOUL_7.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Get along",
+      "artist": "0 SOUL 7",
+      "has_synced": false,
+      "path": "select/pl_04_Get_along_0_SOUL_7.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Get Along Together -愛を贈りたいから-",
+      "artist": "0 SOUL 7",
+      "has_synced": false,
+      "path": "select/pl_05_Get_Along_Together_-愛を贈りたいから-_0_SOUL_7.txt"
+    }
+  ]
+}
